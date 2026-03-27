@@ -1,0 +1,62 @@
+[
+  {
+    "playerName": "Virat Kohli",
+    "country": "India",
+    "playerType": "Batsman",
+    "rating": 92,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1800000,
+    "image": "https://i.ibb.co.com/sJvcSJ6v/images-1.webp"
+  },
+  {
+    "playerName": "Babar Azam",
+    "country": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 91,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1700000,
+    "image": "https://i.ibb.co.com/SwPNdRsg/stokesb011201-min.jpg"
+  },
+  {
+    "playerName": "Ben Stokes",
+    "country": "England",
+    "playerType": "All-rounder",
+    "rating": 90,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1600000,
+    "image": "https://i.ibb.co.com/SwPNdRsg/stokesb011201-min.jpg"
+  },
+  {
+    "playerName": "Mitchell Starc",
+    "country": "Australia",
+    "playerType": "Bowler",
+    "rating": 89,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1500000,
+    "image": "https://i.ibb.co.com/SwPNdRsg/stokesb011201-min.jpg"
+  },
+  {
+    "playerName": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 93,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox",
+    "price": 1900000,
+    "image": "https://i.ibb.co.com/sJvcSJ6v/images-1.webp"
+  },
+  {
+    "playerName": "Kane Williamson",
+    "country": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 90,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1650000,
+    "image": "https://i.ibb.co.com/SwPNdRsg/stokesb011201-min.jpg"
+  }
+]

@@ -1,9 +1,7 @@
 import React from 'react';
 
 const NavBar = () => {
-  return (
-    <div>
-      <div className="navbar bg-base-100 shadow-sm  ">
+  return (<div className="navbar bg-base-100 shadow-sm  container mx-auto">
         
   <div className="flex-1 pl-32">
     <a ><img src="/src/assets/logo.png" alt="" /></a>
@@ -25,7 +23,7 @@ const NavBar = () => {
     </button>
   </div>
 </div>
-    </div>
+   
   );
 };
 
